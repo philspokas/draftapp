@@ -22,6 +22,12 @@ export default createRouter({
       props: r => ({ id: +r.params.id }),
     },
     {
+      path: "/team/:id(\\d+)?",
+      name: "team-edit",
+      component: () => import("./views/TeamEdit.vue"),
+      props: r => ({ id: +r.params.id }),
+    },
+    {
       path: "/admin",
       name: "admin",
       component: () => import("./views/Admin.vue"),

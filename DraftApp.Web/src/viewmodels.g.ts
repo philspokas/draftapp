@@ -3,11 +3,36 @@ import * as $models from './models.g'
 import * as $apiClients from './api-clients.g'
 import { ViewModel, ListViewModel, ServiceViewModel, DeepPartial, defineProps } from 'coalesce-vue/lib/viewmodel'
 
+export interface PickViewModel extends $models.Pick {
+  pickId: number | null;
+  playerId: number | null;
+  player: PlayerViewModel | null;
+  tourneyTeamId: number | null;
+  tourneyTeam: TourneyTeamViewModel | null;
+  pickNumber: number | null;
+}
+export class PickViewModel extends ViewModel<$models.Pick, $apiClients.PickApiClient, number> implements $models.Pick  {
+  
+  constructor(initialData?: DeepPartial<$models.Pick> | null) {
+    super($metadata.Pick, new $apiClients.PickApiClient(), initialData)
+  }
+}
+defineProps(PickViewModel, $metadata.Pick)
+
+export class PickListViewModel extends ListViewModel<$models.Pick, $apiClients.PickApiClient, PickViewModel> {
+  
+  constructor() {
+    super($metadata.Pick, new $apiClients.PickApiClient())
+  }
+}
+
+
 export interface PlayerViewModel extends $models.Player {
   playerId: number | null;
   name: string | null;
   email: string | null;
   mobile: string | null;
+  sequence: number | null;
 }
 export class PlayerViewModel extends ViewModel<$models.Player, $apiClients.PlayerApiClient, number> implements $models.Player  {
   
@@ -21,6 +46,53 @@ export class PlayerListViewModel extends ListViewModel<$models.Player, $apiClien
   
   constructor() {
     super($metadata.Player, new $apiClients.PlayerApiClient())
+  }
+}
+
+
+export interface TeamViewModel extends $models.Team {
+  teamId: number | null;
+  name: string | null;
+  abbreviation: string | null;
+  mascot: string | null;
+  logoURL: string | null;
+}
+export class TeamViewModel extends ViewModel<$models.Team, $apiClients.TeamApiClient, number> implements $models.Team  {
+  
+  constructor(initialData?: DeepPartial<$models.Team> | null) {
+    super($metadata.Team, new $apiClients.TeamApiClient(), initialData)
+  }
+}
+defineProps(TeamViewModel, $metadata.Team)
+
+export class TeamListViewModel extends ListViewModel<$models.Team, $apiClients.TeamApiClient, TeamViewModel> {
+  
+  constructor() {
+    super($metadata.Team, new $apiClients.TeamApiClient())
+  }
+}
+
+
+export interface TourneyTeamViewModel extends $models.TourneyTeam {
+  tourneyTeamID: number | null;
+  teamID: number | null;
+  team: TeamViewModel | null;
+  seed: number | null;
+  region: string | null;
+  bracketPosition: string | null;
+}
+export class TourneyTeamViewModel extends ViewModel<$models.TourneyTeam, $apiClients.TourneyTeamApiClient, number> implements $models.TourneyTeam  {
+  
+  constructor(initialData?: DeepPartial<$models.TourneyTeam> | null) {
+    super($metadata.TourneyTeam, new $apiClients.TourneyTeamApiClient(), initialData)
+  }
+}
+defineProps(TourneyTeamViewModel, $metadata.TourneyTeam)
+
+export class TourneyTeamListViewModel extends ListViewModel<$models.TourneyTeam, $apiClients.TourneyTeamApiClient, TourneyTeamViewModel> {
+  
+  constructor() {
+    super($metadata.TourneyTeam, new $apiClients.TourneyTeamApiClient())
   }
 }
 
@@ -48,11 +120,17 @@ export class WidgetListViewModel extends ListViewModel<$models.Widget, $apiClien
 
 
 const viewModelTypeLookup = ViewModel.typeLookup = {
+  Pick: PickViewModel,
   Player: PlayerViewModel,
+  Team: TeamViewModel,
+  TourneyTeam: TourneyTeamViewModel,
   Widget: WidgetViewModel,
 }
 const listViewModelTypeLookup = ListViewModel.typeLookup = {
+  Pick: PickListViewModel,
   Player: PlayerListViewModel,
+  Team: TeamListViewModel,
+  TourneyTeam: TourneyTeamListViewModel,
   Widget: WidgetListViewModel,
 }
 const serviceViewModelTypeLookup = ServiceViewModel.typeLookup = {

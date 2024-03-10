@@ -4,6 +4,7 @@ using DraftApp.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DraftApp.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240308234503_TourneyTeamAndPick")]
+    partial class TourneyTeamAndPick
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,32 +24,6 @@ namespace DraftApp.Data.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("DraftApp.Data.Models.Pick", b =>
-                {
-                    b.Property<int>("PickId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PickId"));
-
-                    b.Property<int>("PickNumber")
-                        .HasColumnType("int");
-
-                    b.Property<int>("PlayerId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("TourneyTeamId")
-                        .HasColumnType("int");
-
-                    b.HasKey("PickId");
-
-                    b.HasIndex("PlayerId");
-
-                    b.HasIndex("TourneyTeamId");
-
-                    b.ToTable("Picks");
-                });
 
             modelBuilder.Entity("DraftApp.Data.Models.Player", b =>
                 {
@@ -129,8 +106,6 @@ namespace DraftApp.Data.Migrations
 
                     b.HasKey("TourneyTeamID");
 
-                    b.HasIndex("TeamID");
-
                     b.ToTable("TourneyTeams");
                 });
 
@@ -155,36 +130,6 @@ namespace DraftApp.Data.Migrations
                     b.HasKey("WidgetId");
 
                     b.ToTable("Widgets");
-                });
-
-            modelBuilder.Entity("DraftApp.Data.Models.Pick", b =>
-                {
-                    b.HasOne("DraftApp.Data.Models.Player", "Player")
-                        .WithMany()
-                        .HasForeignKey("PlayerId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.HasOne("DraftApp.Data.Models.TourneyTeam", "TourneyTeam")
-                        .WithMany()
-                        .HasForeignKey("TourneyTeamId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Player");
-
-                    b.Navigation("TourneyTeam");
-                });
-
-            modelBuilder.Entity("DraftApp.Data.Models.TourneyTeam", b =>
-                {
-                    b.HasOne("DraftApp.Data.Models.Team", "Team")
-                        .WithMany()
-                        .HasForeignKey("TeamID")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Team");
                 });
 #pragma warning restore 612, 618
         }

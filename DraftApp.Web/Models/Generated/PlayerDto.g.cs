@@ -16,6 +16,7 @@ namespace DraftApp.Web.Models
         private string _Name;
         private string _Email;
         private string _Mobile;
+        private int? _Sequence;
 
         public int? PlayerId
         {
@@ -37,6 +38,11 @@ namespace DraftApp.Web.Models
             get => _Mobile;
             set { _Mobile = value; Changed(nameof(Mobile)); }
         }
+        public int? Sequence
+        {
+            get => _Sequence;
+            set { _Sequence = value; Changed(nameof(Sequence)); }
+        }
 
         /// <summary>
         /// Map from the domain object to the properties of the current DTO instance.
@@ -50,6 +56,7 @@ namespace DraftApp.Web.Models
             this.Name = obj.Name;
             this.Email = obj.Email;
             this.Mobile = obj.Mobile;
+            this.Sequence = obj.Sequence;
         }
 
         /// <summary>
@@ -65,6 +72,7 @@ namespace DraftApp.Web.Models
             if (ShouldMapTo(nameof(Name))) entity.Name = Name;
             if (ShouldMapTo(nameof(Email))) entity.Email = Email;
             if (ShouldMapTo(nameof(Mobile))) entity.Mobile = Mobile;
+            if (ShouldMapTo(nameof(Sequence))) entity.Sequence = (Sequence ?? entity.Sequence);
         }
 
         /// <summary>
@@ -83,6 +91,7 @@ namespace DraftApp.Web.Models
 
             if (OnUpdate(entity, context)) return entity;
             if (ShouldMapTo(nameof(PlayerId))) entity.PlayerId = (PlayerId ?? entity.PlayerId);
+            if (ShouldMapTo(nameof(Sequence))) entity.Sequence = (Sequence ?? entity.Sequence);
 
             return entity;
         }

@@ -5,15 +5,21 @@
       <c-display :model="player" for="name" />
     </dd>
 
+    <dt>Sequence</dt>
+    <dd>
+      <c-display :model="player" for="sequence" />
+    </dd>
+
     <dt>email</dt>
     <dd>
       <c-display :model="player" for="email" />
     </dd>
 
-    <dt>Mobile</dt>
+    <dt>mobile</dt>
     <dd>
       <c-display :model="player" for="mobile" />
     </dd>
+
 
   </dl>
 </template>

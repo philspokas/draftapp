@@ -8,11 +8,39 @@ export enum WidgetCategory {
 }
 
 
+export interface Pick extends Model<typeof metadata.Pick> {
+  pickId: number | null
+  playerId: number | null
+  player: Player | null
+  tourneyTeamId: number | null
+  tourneyTeam: TourneyTeam | null
+  pickNumber: number | null
+}
+export class Pick {
+  
+  /** Mutates the input object and its descendents into a valid Pick implementation. */
+  static convert(data?: Partial<Pick>): Pick {
+    return convertToModel(data || {}, metadata.Pick) 
+  }
+  
+  /** Maps the input object and its descendents to a new, valid Pick implementation. */
+  static map(data?: Partial<Pick>): Pick {
+    return mapToModel(data || {}, metadata.Pick) 
+  }
+  
+  /** Instantiate a new Pick, optionally basing it on the given data. */
+  constructor(data?: Partial<Pick> | {[k: string]: any}) {
+    Object.assign(this, Pick.map(data || {}));
+  }
+}
+
+
 export interface Player extends Model<typeof metadata.Player> {
   playerId: number | null
   name: string | null
   email: string | null
   mobile: string | null
+  sequence: number | null
 }
 export class Player {
   
@@ -29,6 +57,59 @@ export class Player {
   /** Instantiate a new Player, optionally basing it on the given data. */
   constructor(data?: Partial<Player> | {[k: string]: any}) {
     Object.assign(this, Player.map(data || {}));
+  }
+}
+
+
+export interface Team extends Model<typeof metadata.Team> {
+  teamId: number | null
+  name: string | null
+  abbreviation: string | null
+  mascot: string | null
+  logoURL: string | null
+}
+export class Team {
+  
+  /** Mutates the input object and its descendents into a valid Team implementation. */
+  static convert(data?: Partial<Team>): Team {
+    return convertToModel(data || {}, metadata.Team) 
+  }
+  
+  /** Maps the input object and its descendents to a new, valid Team implementation. */
+  static map(data?: Partial<Team>): Team {
+    return mapToModel(data || {}, metadata.Team) 
+  }
+  
+  /** Instantiate a new Team, optionally basing it on the given data. */
+  constructor(data?: Partial<Team> | {[k: string]: any}) {
+    Object.assign(this, Team.map(data || {}));
+  }
+}
+
+
+export interface TourneyTeam extends Model<typeof metadata.TourneyTeam> {
+  tourneyTeamID: number | null
+  teamID: number | null
+  team: Team | null
+  seed: number | null
+  region: string | null
+  bracketPosition: string | null
+}
+export class TourneyTeam {
+  
+  /** Mutates the input object and its descendents into a valid TourneyTeam implementation. */
+  static convert(data?: Partial<TourneyTeam>): TourneyTeam {
+    return convertToModel(data || {}, metadata.TourneyTeam) 
+  }
+  
+  /** Maps the input object and its descendents to a new, valid TourneyTeam implementation. */
+  static map(data?: Partial<TourneyTeam>): TourneyTeam {
+    return mapToModel(data || {}, metadata.TourneyTeam) 
+  }
+  
+  /** Instantiate a new TourneyTeam, optionally basing it on the given data. */
+  constructor(data?: Partial<TourneyTeam> | {[k: string]: any}) {
+    Object.assign(this, TourneyTeam.map(data || {}));
   }
 }
 
