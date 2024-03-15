@@ -94,6 +94,11 @@ export interface TourneyTeam extends Model<typeof metadata.TourneyTeam> {
   seed: number | null
   region: string | null
   bracketPosition: string | null
+  bracketId: number | null
+  playerID: number | null
+  player: Player | null
+  pickSequence: number | null
+  isPlayin: boolean | null
 }
 export class TourneyTeam {
   

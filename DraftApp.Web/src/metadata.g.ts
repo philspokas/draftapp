@@ -272,6 +272,40 @@ export const TourneyTeam = domain.types.TourneyTeam = {
         required: val => (val != null && val !== '') || "Bracket Position is required.",
       }
     },
+    bracketId: {
+      name: "bracketId",
+      displayName: "Bracket Id",
+      type: "number",
+      role: "value",
+    },
+    playerID: {
+      name: "playerID",
+      displayName: "Player ID",
+      type: "number",
+      role: "value",
+    },
+    player: {
+      name: "player",
+      displayName: "Player",
+      type: "model",
+      get typeDef() { return (domain.types.Player as ModelType) },
+      role: "referenceNavigation",
+      get foreignKey() { return (domain.types.TourneyTeam as ModelType).props.playerID as ForeignKeyProperty },
+      get principalKey() { return (domain.types.Player as ModelType).props.playerId as PrimaryKeyProperty },
+      dontSerialize: true,
+    },
+    pickSequence: {
+      name: "pickSequence",
+      displayName: "Pick Sequence",
+      type: "number",
+      role: "value",
+    },
+    isPlayin: {
+      name: "isPlayin",
+      displayName: "Is Playin",
+      type: "boolean",
+      role: "value",
+    },
   },
   methods: {
   },

@@ -80,6 +80,11 @@ export interface TourneyTeamViewModel extends $models.TourneyTeam {
   seed: number | null;
   region: string | null;
   bracketPosition: string | null;
+  bracketId: number | null;
+  playerID: number | null;
+  player: PlayerViewModel | null;
+  pickSequence: number | null;
+  isPlayin: boolean | null;
 }
 export class TourneyTeamViewModel extends ViewModel<$models.TourneyTeam, $apiClients.TourneyTeamApiClient, number> implements $models.TourneyTeam  {
   

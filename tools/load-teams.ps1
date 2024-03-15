@@ -1,4 +1,5 @@
-$teamsFile = "C:\wrk\pcsdev\circle-bracket\src\data\teams.json"
+$teamsFile = "C:\wrk\pcsdev\DraftPool\data\teams.json"
+$uri = "https://localhost:45379/api/Team/save"
 
 function LoadTeams() {
     $teams = Get-Content $teamsFile | ConvertFrom-Json -depth 10
@@ -18,12 +19,13 @@ function LoadTeams() {
     }
 }
 
-$team = @{
-    name = 'test-7'
-    mascot = 'cats'
-    logoURL = 'https://something/cats.png'
+function scratch() {
+    $team = @{
+        name = 'test-7'
+        mascot = 'cats'
+        logoURL = 'https://something/cats.png'
+    }
+
+    Invoke-RestMethod -Uri $uri -Method Post -Form $team
+
 }
-$uri = "https://localhost:45379/api/Team/save"
-
-Invoke-RestMethod -Uri $uri -Method Post -Form $team
-

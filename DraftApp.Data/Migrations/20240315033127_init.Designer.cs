@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DraftApp.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240309000003_TourneyTeamAndPick3")]
-    partial class TourneyTeamAndPick3
+    [Migration("20240315033127_init")]
+    partial class init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -116,9 +116,21 @@ namespace DraftApp.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TourneyTeamID"));
 
+                    b.Property<int>("BracketId")
+                        .HasColumnType("int");
+
                     b.Property<string>("BracketPosition")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsPlayin")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("PickSequence")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("PlayerID")
+                        .HasColumnType("int");
 
                     b.Property<string>("Region")
                         .IsRequired()
@@ -131,6 +143,8 @@ namespace DraftApp.Data.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("TourneyTeamID");
+
+                    b.HasIndex("PlayerID");
 
                     b.HasIndex("TeamID");
 
@@ -181,11 +195,18 @@ namespace DraftApp.Data.Migrations
 
             modelBuilder.Entity("DraftApp.Data.Models.TourneyTeam", b =>
                 {
+                    b.HasOne("DraftApp.Data.Models.Player", "Player")
+                        .WithMany()
+                        .HasForeignKey("PlayerID")
+                        .OnDelete(DeleteBehavior.Restrict);
+
                     b.HasOne("DraftApp.Data.Models.Team", "Team")
                         .WithMany()
                         .HasForeignKey("TeamID")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
+
+                    b.Navigation("Player");
 
                     b.Navigation("Team");
                 });
