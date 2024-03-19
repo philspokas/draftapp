@@ -8,6 +8,7 @@ public class TourneyTeam
     public int TeamID { get; set; }
     public Team Team { get; set; }
 
+    [DefaultOrderBy(OrderByDirection = DefaultOrderByAttribute.OrderByDirections.Ascending)]
     public int Seed { get; set; }
     public string Region { get; set; }
     public string BracketPosition { get; set; }
