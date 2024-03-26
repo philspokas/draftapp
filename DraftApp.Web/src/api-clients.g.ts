@@ -8,6 +8,27 @@ export class PickApiClient extends ModelApiClient<$models.Pick> {
 }
 
 
+export class PickTrackerApiClient extends ModelApiClient<$models.PickTracker> {
+  constructor() { super($metadata.PickTracker) }
+  public startDraft(id: number, $config?: AxiosRequestConfig): AxiosPromise<ItemResult<$models.PickTracker>> {
+    const $method = this.$metadata.methods.startDraft
+    const $params =  {
+      id,
+    }
+    return this.$invoke($method, $params, $config)
+  }
+  
+  public nextPlayer(id: number, $config?: AxiosRequestConfig): AxiosPromise<ItemResult<$models.PickTracker>> {
+    const $method = this.$metadata.methods.nextPlayer
+    const $params =  {
+      id,
+    }
+    return this.$invoke($method, $params, $config)
+  }
+  
+}
+
+
 export class PlayerApiClient extends ModelApiClient<$models.Player> {
   constructor() { super($metadata.Player) }
 }

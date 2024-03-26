@@ -27,6 +27,51 @@ export class PickListViewModel extends ListViewModel<$models.Pick, $apiClients.P
 }
 
 
+export interface PickTrackerViewModel extends $models.PickTracker {
+  pickTrackerID: number | null;
+  currentPick: number | null;
+  repeatPlayer: boolean | null;
+  playerIndex: number | null;
+  direction: number | null;
+}
+export class PickTrackerViewModel extends ViewModel<$models.PickTracker, $apiClients.PickTrackerApiClient, number> implements $models.PickTracker  {
+  
+  public get startDraft() {
+    const startDraft = this.$apiClient.$makeCaller(
+      this.$metadata.methods.startDraft,
+      (c) => c.startDraft(this.$primaryKey),
+      () => ({}),
+      (c, args) => c.startDraft(this.$primaryKey))
+    
+    Object.defineProperty(this, 'startDraft', {value: startDraft});
+    return startDraft
+  }
+  
+  public get nextPlayer() {
+    const nextPlayer = this.$apiClient.$makeCaller(
+      this.$metadata.methods.nextPlayer,
+      (c) => c.nextPlayer(this.$primaryKey),
+      () => ({}),
+      (c, args) => c.nextPlayer(this.$primaryKey))
+    
+    Object.defineProperty(this, 'nextPlayer', {value: nextPlayer});
+    return nextPlayer
+  }
+  
+  constructor(initialData?: DeepPartial<$models.PickTracker> | null) {
+    super($metadata.PickTracker, new $apiClients.PickTrackerApiClient(), initialData)
+  }
+}
+defineProps(PickTrackerViewModel, $metadata.PickTracker)
+
+export class PickTrackerListViewModel extends ListViewModel<$models.PickTracker, $apiClients.PickTrackerApiClient, PickTrackerViewModel> {
+  
+  constructor() {
+    super($metadata.PickTracker, new $apiClients.PickTrackerApiClient())
+  }
+}
+
+
 export interface PlayerViewModel extends $models.Player {
   playerId: number | null;
   name: string | null;
@@ -126,6 +171,7 @@ export class WidgetListViewModel extends ListViewModel<$models.Widget, $apiClien
 
 const viewModelTypeLookup = ViewModel.typeLookup = {
   Pick: PickViewModel,
+  PickTracker: PickTrackerViewModel,
   Player: PlayerViewModel,
   Team: TeamViewModel,
   TourneyTeam: TourneyTeamViewModel,
@@ -133,6 +179,7 @@ const viewModelTypeLookup = ViewModel.typeLookup = {
 }
 const listViewModelTypeLookup = ListViewModel.typeLookup = {
   Pick: PickListViewModel,
+  PickTracker: PickTrackerListViewModel,
   Player: PlayerListViewModel,
   Team: TeamListViewModel,
   TourneyTeam: TourneyTeamListViewModel,

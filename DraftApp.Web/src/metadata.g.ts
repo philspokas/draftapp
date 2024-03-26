@@ -103,6 +103,96 @@ export const Pick = domain.types.Pick = {
   dataSources: {
   },
 }
+export const PickTracker = domain.types.PickTracker = {
+  name: "PickTracker",
+  displayName: "Pick Tracker",
+  get displayProp() { return this.props.pickTrackerID }, 
+  type: "model",
+  controllerRoute: "PickTracker",
+  get keyProp() { return this.props.pickTrackerID }, 
+  behaviorFlags: 7 as BehaviorFlags,
+  props: {
+    pickTrackerID: {
+      name: "pickTrackerID",
+      displayName: "Pick Tracker ID",
+      type: "number",
+      role: "primaryKey",
+      hidden: 3 as HiddenAreas,
+    },
+    currentPick: {
+      name: "currentPick",
+      displayName: "Current Pick",
+      type: "number",
+      role: "value",
+    },
+    repeatPlayer: {
+      name: "repeatPlayer",
+      displayName: "Repeat Player",
+      type: "boolean",
+      role: "value",
+    },
+    playerIndex: {
+      name: "playerIndex",
+      displayName: "Player Index",
+      type: "number",
+      role: "value",
+    },
+    direction: {
+      name: "direction",
+      displayName: "Direction",
+      type: "number",
+      role: "value",
+    },
+  },
+  methods: {
+    startDraft: {
+      name: "startDraft",
+      displayName: "Start Draft",
+      transportType: "item",
+      httpMethod: "POST",
+      params: {
+        id: {
+          name: "id",
+          displayName: "Primary Key",
+          type: "number",
+          role: "value",
+          get source() { return (domain.types.PickTracker as ModelType).props.pickTrackerID },
+        },
+      },
+      return: {
+        name: "$return",
+        displayName: "Result",
+        type: "model",
+        get typeDef() { return (domain.types.PickTracker as ModelType) },
+        role: "value",
+      },
+    },
+    nextPlayer: {
+      name: "nextPlayer",
+      displayName: "Next Player",
+      transportType: "item",
+      httpMethod: "POST",
+      params: {
+        id: {
+          name: "id",
+          displayName: "Primary Key",
+          type: "number",
+          role: "value",
+          get source() { return (domain.types.PickTracker as ModelType).props.pickTrackerID },
+        },
+      },
+      return: {
+        name: "$return",
+        displayName: "Result",
+        type: "model",
+        get typeDef() { return (domain.types.PickTracker as ModelType) },
+        role: "value",
+      },
+    },
+  },
+  dataSources: {
+  },
+}
 export const Player = domain.types.Player = {
   name: "Player",
   displayName: "Player",
@@ -367,6 +457,7 @@ interface AppDomain extends Domain {
   }
   types: {
     Pick: typeof Pick
+    PickTracker: typeof PickTracker
     Player: typeof Player
     Team: typeof Team
     TourneyTeam: typeof TourneyTeam

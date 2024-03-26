@@ -35,6 +35,32 @@ export class Pick {
 }
 
 
+export interface PickTracker extends Model<typeof metadata.PickTracker> {
+  pickTrackerID: number | null
+  currentPick: number | null
+  repeatPlayer: boolean | null
+  playerIndex: number | null
+  direction: number | null
+}
+export class PickTracker {
+  
+  /** Mutates the input object and its descendents into a valid PickTracker implementation. */
+  static convert(data?: Partial<PickTracker>): PickTracker {
+    return convertToModel(data || {}, metadata.PickTracker) 
+  }
+  
+  /** Maps the input object and its descendents to a new, valid PickTracker implementation. */
+  static map(data?: Partial<PickTracker>): PickTracker {
+    return mapToModel(data || {}, metadata.PickTracker) 
+  }
+  
+  /** Instantiate a new PickTracker, optionally basing it on the given data. */
+  constructor(data?: Partial<PickTracker> | {[k: string]: any}) {
+    Object.assign(this, PickTracker.map(data || {}));
+  }
+}
+
+
 export interface Player extends Model<typeof metadata.Player> {
   playerId: number | null
   name: string | null
