@@ -19,6 +19,7 @@ namespace DraftApp.Web.Models
         private string _Region;
         private string _BracketPosition;
         private int? _BracketId;
+        private int? _VictorBracketId;
         private int? _PlayerID;
         private DraftApp.Web.Models.PlayerDtoGen _Player;
         private int? _PickSequence;
@@ -59,6 +60,11 @@ namespace DraftApp.Web.Models
             get => _BracketId;
             set { _BracketId = value; Changed(nameof(BracketId)); }
         }
+        public int? VictorBracketId
+        {
+            get => _VictorBracketId;
+            set { _VictorBracketId = value; Changed(nameof(VictorBracketId)); }
+        }
         public int? PlayerID
         {
             get => _PlayerID;
@@ -94,6 +100,7 @@ namespace DraftApp.Web.Models
             this.Region = obj.Region;
             this.BracketPosition = obj.BracketPosition;
             this.BracketId = obj.BracketId;
+            this.VictorBracketId = obj.VictorBracketId;
             this.PlayerID = obj.PlayerID;
             this.PickSequence = obj.PickSequence;
             this.IsPlayin = obj.IsPlayin;
@@ -120,6 +127,7 @@ namespace DraftApp.Web.Models
             if (ShouldMapTo(nameof(Region))) entity.Region = Region;
             if (ShouldMapTo(nameof(BracketPosition))) entity.BracketPosition = BracketPosition;
             if (ShouldMapTo(nameof(BracketId))) entity.BracketId = (BracketId ?? entity.BracketId);
+            if (ShouldMapTo(nameof(VictorBracketId))) entity.VictorBracketId = (VictorBracketId ?? entity.VictorBracketId);
             if (ShouldMapTo(nameof(PlayerID))) entity.PlayerID = PlayerID;
             if (ShouldMapTo(nameof(PickSequence))) entity.PickSequence = (PickSequence ?? entity.PickSequence);
             if (ShouldMapTo(nameof(IsPlayin))) entity.IsPlayin = (IsPlayin ?? entity.IsPlayin);

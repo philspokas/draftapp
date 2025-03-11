@@ -113,6 +113,9 @@ namespace DraftApp.Data.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("AlternateNames")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("LogoURL")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -164,6 +167,9 @@ namespace DraftApp.Data.Migrations
                     b.Property<int>("TeamID")
                         .HasColumnType("int");
 
+                    b.Property<int>("VictorBracketId")
+                        .HasColumnType("int");
+
                     b.HasKey("TourneyTeamID");
 
                     b.HasIndex("PlayerID");
@@ -171,29 +177,6 @@ namespace DraftApp.Data.Migrations
                     b.HasIndex("TeamID");
 
                     b.ToTable("TourneyTeams");
-                });
-
-            modelBuilder.Entity("DraftApp.Data.Models.Widget", b =>
-                {
-                    b.Property<int>("WidgetId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WidgetId"));
-
-                    b.Property<int>("Category")
-                        .HasColumnType("int");
-
-                    b.Property<DateTimeOffset?>("InventedOn")
-                        .HasColumnType("datetimeoffset");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("WidgetId");
-
-                    b.ToTable("Widgets");
                 });
 
             modelBuilder.Entity("DraftApp.Data.Models.Pick", b =>

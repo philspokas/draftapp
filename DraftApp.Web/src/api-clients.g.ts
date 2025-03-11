@@ -44,8 +44,3 @@ export class TourneyTeamApiClient extends ModelApiClient<$models.TourneyTeam> {
 }
 
 
-export class WidgetApiClient extends ModelApiClient<$models.Widget> {
-  constructor() { super($metadata.Widget) }
-}
-
-

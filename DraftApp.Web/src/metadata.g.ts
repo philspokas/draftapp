@@ -7,28 +7,6 @@ import {
 
 
 const domain: Domain = { enums: {}, types: {}, services: {} }
-export const WidgetCategory = domain.enums.WidgetCategory = {
-  name: "WidgetCategory",
-  displayName: "Widget Category",
-  type: "enum",
-  ...getEnumMeta<"Whizbangs"|"Sprecklesprockets"|"Discombobulators">([
-  {
-    value: 0,
-    strValue: "Whizbangs",
-    displayName: "Whizbangs",
-  },
-  {
-    value: 1,
-    strValue: "Sprecklesprockets",
-    displayName: "Sprecklesprockets",
-  },
-  {
-    value: 2,
-    strValue: "Discombobulators",
-    displayName: "Discombobulators",
-  },
-  ]),
-}
 export const Pick = domain.types.Pick = {
   name: "Pick",
   displayName: "Pick",
@@ -300,6 +278,12 @@ export const Team = domain.types.Team = {
         required: val => (val != null && val !== '') || "Logo URL is required.",
       }
     },
+    alternateNames: {
+      name: "alternateNames",
+      displayName: "Alternate Names",
+      type: "string",
+      role: "value",
+    },
   },
   methods: {
   },
@@ -368,6 +352,12 @@ export const TourneyTeam = domain.types.TourneyTeam = {
       type: "number",
       role: "value",
     },
+    victorBracketId: {
+      name: "victorBracketId",
+      displayName: "Victor Bracket Id",
+      type: "number",
+      role: "value",
+    },
     playerID: {
       name: "playerID",
       displayName: "Player ID",
@@ -402,58 +392,9 @@ export const TourneyTeam = domain.types.TourneyTeam = {
   dataSources: {
   },
 }
-export const Widget = domain.types.Widget = {
-  name: "Widget",
-  displayName: "Widget",
-  get displayProp() { return this.props.name }, 
-  type: "model",
-  controllerRoute: "Widget",
-  get keyProp() { return this.props.widgetId }, 
-  behaviorFlags: 7 as BehaviorFlags,
-  props: {
-    widgetId: {
-      name: "widgetId",
-      displayName: "Widget Id",
-      type: "number",
-      role: "primaryKey",
-      hidden: 3 as HiddenAreas,
-    },
-    name: {
-      name: "name",
-      displayName: "Name",
-      type: "string",
-      role: "value",
-      rules: {
-        required: val => (val != null && val !== '') || "Name is required.",
-      }
-    },
-    category: {
-      name: "category",
-      displayName: "Category",
-      type: "enum",
-      get typeDef() { return domain.enums.WidgetCategory },
-      role: "value",
-      rules: {
-        required: val => val != null || "Category is required.",
-      }
-    },
-    inventedOn: {
-      name: "inventedOn",
-      displayName: "Invented On",
-      type: "date",
-      dateKind: "datetime",
-      role: "value",
-    },
-  },
-  methods: {
-  },
-  dataSources: {
-  },
-}
 
 interface AppDomain extends Domain {
   enums: {
-    WidgetCategory: typeof WidgetCategory
   }
   types: {
     Pick: typeof Pick
@@ -461,7 +402,6 @@ interface AppDomain extends Domain {
     Player: typeof Player
     Team: typeof Team
     TourneyTeam: typeof TourneyTeam
-    Widget: typeof Widget
   }
   services: {
   }

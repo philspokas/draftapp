@@ -1,3 +1,5 @@
-﻿select count(*) from Teams
+﻿use DraftApp;
+
+select count(*) from Teams
 
 delete from Teams

@@ -17,6 +17,7 @@ namespace DraftApp.Web.Models
         private string _Abbreviation;
         private string _Mascot;
         private string _LogoURL;
+        private string _AlternateNames;
 
         public int? TeamId
         {
@@ -43,6 +44,11 @@ namespace DraftApp.Web.Models
             get => _LogoURL;
             set { _LogoURL = value; Changed(nameof(LogoURL)); }
         }
+        public string AlternateNames
+        {
+            get => _AlternateNames;
+            set { _AlternateNames = value; Changed(nameof(AlternateNames)); }
+        }
 
         /// <summary>
         /// Map from the domain object to the properties of the current DTO instance.
@@ -57,6 +63,7 @@ namespace DraftApp.Web.Models
             this.Abbreviation = obj.Abbreviation;
             this.Mascot = obj.Mascot;
             this.LogoURL = obj.LogoURL;
+            this.AlternateNames = obj.AlternateNames;
         }
 
         /// <summary>
@@ -73,6 +80,7 @@ namespace DraftApp.Web.Models
             if (ShouldMapTo(nameof(Abbreviation))) entity.Abbreviation = Abbreviation;
             if (ShouldMapTo(nameof(Mascot))) entity.Mascot = Mascot;
             if (ShouldMapTo(nameof(LogoURL))) entity.LogoURL = LogoURL;
+            if (ShouldMapTo(nameof(AlternateNames))) entity.AlternateNames = AlternateNames;
         }
 
         /// <summary>
@@ -92,6 +100,7 @@ namespace DraftApp.Web.Models
             if (ShouldMapTo(nameof(Abbreviation))) entity.Abbreviation = Abbreviation;
             if (ShouldMapTo(nameof(Mascot))) entity.Mascot = Mascot;
             if (ShouldMapTo(nameof(LogoURL))) entity.LogoURL = LogoURL;
+            if (ShouldMapTo(nameof(AlternateNames))) entity.AlternateNames = AlternateNames;
 
             return entity;
         }

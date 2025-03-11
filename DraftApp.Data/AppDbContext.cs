@@ -6,7 +6,6 @@ namespace DraftApp.Data;
 [Coalesce]
 public class AppDbContext : DbContext
 {
-    public DbSet<Widget> Widgets => Set<Widget>();
     public DbSet<Player> Players => Set<Player>();
     public DbSet<Team> Teams => Set<Team>();
     public DbSet<TourneyTeam> TourneyTeams => Set<TourneyTeam>();

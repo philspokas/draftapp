@@ -13,6 +13,7 @@ public class TourneyTeam
     public string Region { get; set; }
     public string BracketPosition { get; set; }
     public int BracketId { get; set; }
+    public int VictorBracketId { get; set; }
 
     public int? PlayerID { get; set; }
     public Player? Player { get; set; }

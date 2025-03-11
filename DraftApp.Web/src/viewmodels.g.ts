@@ -101,6 +101,7 @@ export interface TeamViewModel extends $models.Team {
   abbreviation: string | null;
   mascot: string | null;
   logoURL: string | null;
+  alternateNames: string | null;
 }
 export class TeamViewModel extends ViewModel<$models.Team, $apiClients.TeamApiClient, number> implements $models.Team  {
   
@@ -126,6 +127,7 @@ export interface TourneyTeamViewModel extends $models.TourneyTeam {
   region: string | null;
   bracketPosition: string | null;
   bracketId: number | null;
+  victorBracketId: number | null;
   playerID: number | null;
   player: PlayerViewModel | null;
   pickSequence: number | null;
@@ -147,35 +149,12 @@ export class TourneyTeamListViewModel extends ListViewModel<$models.TourneyTeam,
 }
 
 
-export interface WidgetViewModel extends $models.Widget {
-  widgetId: number | null;
-  name: string | null;
-  category: $models.WidgetCategory | null;
-  inventedOn: Date | null;
-}
-export class WidgetViewModel extends ViewModel<$models.Widget, $apiClients.WidgetApiClient, number> implements $models.Widget  {
-  
-  constructor(initialData?: DeepPartial<$models.Widget> | null) {
-    super($metadata.Widget, new $apiClients.WidgetApiClient(), initialData)
-  }
-}
-defineProps(WidgetViewModel, $metadata.Widget)
-
-export class WidgetListViewModel extends ListViewModel<$models.Widget, $apiClients.WidgetApiClient, WidgetViewModel> {
-  
-  constructor() {
-    super($metadata.Widget, new $apiClients.WidgetApiClient())
-  }
-}
-
-
 const viewModelTypeLookup = ViewModel.typeLookup = {
   Pick: PickViewModel,
   PickTracker: PickTrackerViewModel,
   Player: PlayerViewModel,
   Team: TeamViewModel,
   TourneyTeam: TourneyTeamViewModel,
-  Widget: WidgetViewModel,
 }
 const listViewModelTypeLookup = ListViewModel.typeLookup = {
   Pick: PickListViewModel,
@@ -183,7 +162,6 @@ const listViewModelTypeLookup = ListViewModel.typeLookup = {
   Player: PlayerListViewModel,
   Team: TeamListViewModel,
   TourneyTeam: TourneyTeamListViewModel,
-  Widget: WidgetListViewModel,
 }
 const serviceViewModelTypeLookup = ServiceViewModel.typeLookup = {
 }
