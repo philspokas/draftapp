@@ -8,7 +8,7 @@ Collection of utilities used to initialize the system and perform back end tasks
 - ***Warning!*** Team abbreviation from Teams do not all match team abbreviations in the bracket
 - To do: check for  updates
 
-### Load Tourney
+### Load Tourney Bracket
 After the tournament selection committee, the year's bracket data can be loaded.
 
 1. First download the bracket ???

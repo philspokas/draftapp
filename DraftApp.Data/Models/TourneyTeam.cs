@@ -20,4 +20,9 @@ public class TourneyTeam
     public int PickSequence { get; set; }
     public bool IsPlayin { get; set; }
 
+    // [Coalesce]
+    // public async Task<TourneyTeam> ResetPicks(AppDbContext db)
+    // {
+
+    // }
 }

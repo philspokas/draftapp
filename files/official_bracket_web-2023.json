@@ -1,0 +1,2757 @@
+[
+	{
+		"bracketId": 101,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/14/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 201,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST FOUR&#174;",
+			"subtitle": "3/14-3/15",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#005EB8",
+				"ncaaOrgId": 26172,
+				"seed": 16,
+				"seoname": "am-corpus-chris",
+				"nickname": "Islanders",
+				"nameShort": "Texas A&M-CC",
+				"name6Char": "A&M-CC",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 654,
+				"seed": 16,
+				"seoname": "southeast-mo-st",
+				"nickname": "Redhawks",
+				"nameShort": "SE Missouri St.",
+				"name6Char": "SEMO",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 102,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/15/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 209,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST FOUR&#174;",
+			"subtitle": "3/14-3/15",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#6F263D",
+				"ncaaOrgId": 699,
+				"seed": 16,
+				"seoname": "texas-southern",
+				"nickname": "Tigers",
+				"nameShort": "Texas Southern",
+				"name6Char": "TX SO",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#72293c",
+				"ncaaOrgId": 222,
+				"seed": 16,
+				"seoname": "fairleigh-dickinson",
+				"nickname": "Knights",
+				"nameShort": "F. Dickinson",
+				"name6Char": "FDU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 103,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/15/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 229,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST FOUR&#174;",
+			"subtitle": "3/14-3/15",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#8A0C3C",
+				"ncaaOrgId": 28,
+				"seed": 11,
+				"seoname": "arizona-st",
+				"nickname": "Sun Devils",
+				"nameShort": "Arizona St.",
+				"name6Char": "ASU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#041E42",
+				"ncaaOrgId": 466,
+				"seed": 11,
+				"seoname": "nevada",
+				"nickname": "Wolf Pack",
+				"nameShort": "Nevada",
+				"name6Char": "NEV",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 104,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/15/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 221,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST FOUR&#174;",
+			"subtitle": "3/14-3/15",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#491A22",
+				"ncaaOrgId": 430,
+				"seed": 11,
+				"seoname": "mississippi-st",
+				"nickname": "Bulldogs",
+				"nameShort": "Mississippi St.",
+				"name6Char": "MS ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#003594",
+				"ncaaOrgId": 545,
+				"seed": 11,
+				"seoname": "pittsburgh",
+				"nickname": "Panthers",
+				"nameShort": "Pitt",
+				"name6Char": "PITT",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 201,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 301,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#9D2235",
+				"ncaaOrgId": 8,
+				"seed": 1,
+				"seoname": "alabama",
+				"nickname": "Crimson Tide",
+				"nameShort": "Alabama",
+				"name6Char": "BAMA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 202,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 301,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#C8102E",
+				"ncaaOrgId": 392,
+				"seed": 8,
+				"seoname": "maryland",
+				"nickname": "Terrapins",
+				"nameShort": "Maryland",
+				"name6Char": "MD",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#002855",
+				"ncaaOrgId": 768,
+				"seed": 9,
+				"seoname": "west-virginia",
+				"nickname": "Mountaineers",
+				"nameShort": "West Virginia",
+				"name6Char": "WVU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 203,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 302,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#A6192E",
+				"ncaaOrgId": 626,
+				"seed": 5,
+				"seoname": "san-diego-st",
+				"nickname": "Aztecs",
+				"nameShort": "San Diego St.",
+				"name6Char": "SDSU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#76232F",
+				"ncaaOrgId": 1014,
+				"seed": 12,
+				"seoname": "col-of-charleston",
+				"nickname": "Cougars",
+				"nameShort": "Col of Charleston",
+				"name6Char": "COFC",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 204,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 302,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#232D4B",
+				"ncaaOrgId": 746,
+				"seed": 4,
+				"seoname": "virginia",
+				"nickname": "Cavaliers",
+				"nameShort": "Virginia",
+				"name6Char": "UVA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#582C83",
+				"ncaaOrgId": 244,
+				"seed": 13,
+				"seoname": "furman",
+				"nickname": "Paladins",
+				"nameShort": "Furman",
+				"name6Char": "FUR",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 205,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 303,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#0032A0",
+				"ncaaOrgId": 169,
+				"seed": 6,
+				"seoname": "creighton",
+				"nickname": "Bluejays",
+				"nameShort": "Creighton",
+				"name6Char": "CREIGH",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#C8102E",
+				"ncaaOrgId": 490,
+				"seed": 11,
+				"seoname": "north-carolina-st",
+				"nickname": "Wolfpack",
+				"nameShort": "NC State",
+				"name6Char": "NC ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 206,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 303,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#1B3E30",
+				"ncaaOrgId": 51,
+				"seed": 3,
+				"seoname": "baylor",
+				"nickname": "Bears",
+				"nameShort": "Baylor",
+				"name6Char": "BAY",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#0032A0",
+				"ncaaOrgId": 104,
+				"seed": 14,
+				"seoname": "uc-santa-barbara",
+				"nickname": "Gauchos",
+				"nameShort": "UCSB",
+				"name6Char": "UCSB",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 207,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 304,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 434,
+				"seed": 7,
+				"seoname": "missouri",
+				"nickname": "Tigers",
+				"nameShort": "Missouri",
+				"name6Char": "MIZZOU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#00263A",
+				"ncaaOrgId": 731,
+				"seed": 10,
+				"seoname": "utah-st",
+				"nickname": "Aggies",
+				"nameShort": "Utah St.",
+				"name6Char": "UT ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 208,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 304,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#C21B32",
+				"ncaaOrgId": 29,
+				"seed": 2,
+				"seoname": "arizona",
+				"nickname": "Wildcats",
+				"nameShort": "Arizona",
+				"name6Char": "ZONA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#E87722",
+				"ncaaOrgId": 554,
+				"seed": 15,
+				"seoname": "princeton",
+				"nickname": "Tigers",
+				"nameShort": "Princeton",
+				"name6Char": "PRINCE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 209,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 305,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 559,
+				"seed": 1,
+				"seoname": "purdue",
+				"nickname": "Boilermakers",
+				"nameShort": "Purdue",
+				"name6Char": "PUR",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 210,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 305,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#173B70",
+				"ncaaOrgId": 404,
+				"seed": 8,
+				"seoname": "memphis",
+				"nickname": "Tigers",
+				"nameShort": "Memphis",
+				"name6Char": "MEM",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#002855",
+				"ncaaOrgId": 229,
+				"seed": 9,
+				"seoname": "fla-atlantic",
+				"nickname": "Owls",
+				"nameShort": "FAU",
+				"name6Char": "FAU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 211,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 306,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#002D72",
+				"ncaaOrgId": 193,
+				"seed": 5,
+				"seoname": "duke",
+				"nickname": "Blue Devils",
+				"nameShort": "Duke",
+				"name6Char": "DUKE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#041E42",
+				"ncaaOrgId": 527,
+				"seed": 12,
+				"seoname": "oral-roberts",
+				"nickname": "Golden Eagles",
+				"nameShort": "Oral Roberts",
+				"name6Char": "ORU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 212,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 306,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#FF8200",
+				"ncaaOrgId": 694,
+				"seed": 4,
+				"seoname": "tennessee",
+				"nickname": "Volunteers",
+				"nameShort": "Tennessee",
+				"name6Char": "TENN",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#C8102E",
+				"ncaaOrgId": 671,
+				"seed": 13,
+				"seoname": "la-lafayette",
+				"nickname": "Ragin' Cajuns",
+				"nameShort": "Louisiana",
+				"name6Char": "UL",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 213,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 307,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#3258AF",
+				"ncaaOrgId": 334,
+				"seed": 6,
+				"seoname": "kentucky",
+				"nickname": "Wildcats",
+				"nameShort": "Kentucky",
+				"name6Char": "UK",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 556,
+				"seed": 11,
+				"seoname": "providence",
+				"nickname": "Friars",
+				"nameShort": "Providence",
+				"name6Char": "PROV",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 214,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 307,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#582C83",
+				"ncaaOrgId": 327,
+				"seed": 3,
+				"seoname": "kansas-st",
+				"nickname": "Wildcats",
+				"nameShort": "Kansas St.",
+				"name6Char": "K-ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#00205B",
+				"ncaaOrgId": 440,
+				"seed": 14,
+				"seoname": "montana-st",
+				"nickname": "Bobcats",
+				"nameShort": "Montana St.",
+				"name6Char": "MON ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 215,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 308,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#173F35",
+				"ncaaOrgId": 416,
+				"seed": 7,
+				"seoname": "michigan-st",
+				"nickname": "Spartans",
+				"nameShort": "Michigan St.",
+				"name6Char": "MSU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#9D2235",
+				"ncaaOrgId": 657,
+				"seed": 10,
+				"seoname": "southern-california",
+				"nickname": "Trojans",
+				"nameShort": "USC",
+				"name6Char": "USC",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 216,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 308,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#1D2953",
+				"ncaaOrgId": 387,
+				"seed": 2,
+				"seoname": "marquette",
+				"nickname": "Golden Eagles",
+				"nameShort": "Marquette",
+				"name6Char": "MARQ",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#154734",
+				"ncaaOrgId": 738,
+				"seed": 15,
+				"seoname": "vermont",
+				"nickname": "Catamounts",
+				"nameShort": "Vermont",
+				"name6Char": "VRMNT",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 217,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 309,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#E51636",
+				"ncaaOrgId": 288,
+				"seed": 1,
+				"seoname": "houston",
+				"nickname": "Cougars",
+				"nameShort": "Houston",
+				"name6Char": "HOU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 505,
+				"seed": 16,
+				"seoname": "northern-ky",
+				"nickname": "Norse",
+				"nameShort": "N Kentucky",
+				"name6Char": "NKU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 218,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 309,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 312,
+				"seed": 8,
+				"seoname": "iowa",
+				"nickname": "Hawkeyes",
+				"nameShort": "Iowa",
+				"name6Char": "IOWA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#FA4616",
+				"ncaaOrgId": 37,
+				"seed": 9,
+				"seoname": "auburn",
+				"nickname": "Tigers",
+				"nameShort": "Auburn",
+				"name6Char": "AUB",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 219,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 310,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#154734",
+				"ncaaOrgId": 415,
+				"seed": 5,
+				"seoname": "miami-fl",
+				"nickname": "Hurricanes",
+				"nameShort": "Miami (FL)",
+				"name6Char": "MIAMI",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#002F6C",
+				"ncaaOrgId": 189,
+				"seed": 12,
+				"seoname": "drake",
+				"nickname": "Bulldogs",
+				"nameShort": "Drake",
+				"name6Char": "DRAKE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 220,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 310,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#970310",
+				"ncaaOrgId": 306,
+				"seed": 4,
+				"seoname": "indiana",
+				"nickname": "Hoosiers",
+				"nameShort": "Indiana",
+				"name6Char": "IU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#00205B",
+				"ncaaOrgId": 331,
+				"seed": 13,
+				"seoname": "kent-st",
+				"nickname": "Golden Flashes",
+				"nameShort": "Kent St.",
+				"name6Char": "KENTST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 221,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 311,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#A6192E",
+				"ncaaOrgId": 311,
+				"seed": 6,
+				"seoname": "iowa-st",
+				"nickname": "Cyclones",
+				"nameShort": "Iowa St.",
+				"name6Char": "IA ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 222,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 311,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#0C2340",
+				"ncaaOrgId": 812,
+				"seed": 3,
+				"seoname": "xavier",
+				"nickname": "Musketeers",
+				"nameShort": "Xavier",
+				"name6Char": "XAVIER",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 1157,
+				"seed": 14,
+				"seoname": "kennesaw-st",
+				"nickname": "Owls",
+				"nameShort": "Kennesaw St.",
+				"name6Char": "KENNST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 223,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 312,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#500000",
+				"ncaaOrgId": 697,
+				"seed": 7,
+				"seoname": "texas-am",
+				"nickname": "Aggies",
+				"nameShort": "Texas A&M",
+				"name6Char": "TAMU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#041E42",
+				"ncaaOrgId": 539,
+				"seed": 10,
+				"seoname": "penn-st",
+				"nickname": "Nittany Lions",
+				"nameShort": "Penn St.",
+				"name6Char": "PSU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 224,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 312,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#CB6015",
+				"ncaaOrgId": 703,
+				"seed": 2,
+				"seoname": "texas",
+				"nickname": "Longhorns",
+				"nameShort": "Texas",
+				"name6Char": "TEXAS",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#772430",
+				"ncaaOrgId": 153,
+				"seed": 15,
+				"seoname": "colgate",
+				"nickname": "Raiders",
+				"nameShort": "Colgate",
+				"name6Char": "GATE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 225,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 313,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#1967B8",
+				"ncaaOrgId": 328,
+				"seed": 1,
+				"seoname": "kansas",
+				"nickname": "Jayhawks",
+				"nameShort": "Kansas",
+				"name6Char": "KANSAS",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#C8102E",
+				"ncaaOrgId": 290,
+				"seed": 16,
+				"seoname": "howard",
+				"nickname": "Bison",
+				"nameShort": "Howard",
+				"name6Char": "HOW",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 226,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 313,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#9D2235",
+				"ncaaOrgId": 31,
+				"seed": 8,
+				"seoname": "arkansas",
+				"nickname": "Razorbacks",
+				"nameShort": "Arkansas",
+				"name6Char": "ARK",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#E04E39",
+				"ncaaOrgId": 301,
+				"seed": 9,
+				"seoname": "illinois",
+				"nickname": "Fighting Illini",
+				"nameShort": "Illinois",
+				"name6Char": "ILL",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 227,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 314,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#E51B24",
+				"ncaaOrgId": 610,
+				"seed": 5,
+				"seoname": "st-marys-ca",
+				"nickname": "Gaels",
+				"nameShort": "Saint Mary's",
+				"name6Char": "STMARY",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 740,
+				"seed": 12,
+				"seoname": "vcu",
+				"nickname": "Rams",
+				"nameShort": "VCU",
+				"name6Char": "VCU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 228,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 314,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#0C2340",
+				"ncaaOrgId": 164,
+				"seed": 4,
+				"seoname": "uconn",
+				"nickname": "Huskies",
+				"nameShort": "UConn",
+				"name6Char": "UCONN",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#6F2C3F",
+				"ncaaOrgId": 310,
+				"seed": 13,
+				"seoname": "iona",
+				"nickname": "Gaels",
+				"nameShort": "Iona",
+				"name6Char": "IONA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 229,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 315,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#582C83",
+				"ncaaOrgId": 698,
+				"seed": 6,
+				"seoname": "tcu",
+				"nickname": "Horned Frogs",
+				"nameShort": "TCU",
+				"name6Char": "TCU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 230,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/17/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 315,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#D51A35",
+				"ncaaOrgId": 260,
+				"seed": 3,
+				"seoname": "gonzaga",
+				"nickname": "Bulldogs",
+				"nameShort": "Gonzaga",
+				"name6Char": "GONZ",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#5F259F",
+				"ncaaOrgId": 1104,
+				"seed": 14,
+				"seoname": "grand-canyon",
+				"nickname": "Lopes",
+				"nameShort": "Grand Canyon",
+				"name6Char": "GCU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 231,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 316,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#4E2A84",
+				"ncaaOrgId": 509,
+				"seed": 7,
+				"seoname": "northwestern",
+				"nickname": "Wildcats",
+				"nameShort": "Northwestern",
+				"name6Char": "NW",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#0032A0",
+				"ncaaOrgId": 66,
+				"seed": 10,
+				"seoname": "boise-st",
+				"nickname": "Broncos",
+				"nameShort": "Boise St.",
+				"name6Char": "BOISE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 232,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/16/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 316,
+		"mmlVideo": false,
+		"round": {
+			"title": "FIRST ROUND",
+			"subtitle": "3/16-3/17",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#0072CE",
+				"ncaaOrgId": 110,
+				"seed": 2,
+				"seoname": "ucla",
+				"nickname": "Bruins",
+				"nameShort": "UCLA",
+				"name6Char": "UCLA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#002F6C",
+				"ncaaOrgId": 456,
+				"seed": 15,
+				"seoname": "unc-asheville",
+				"nickname": "Bulldogs",
+				"nameShort": "UNC Asheville",
+				"name6Char": "UNCA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 301,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 401,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 302,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 401,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 303,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 402,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 304,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 402,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 305,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 403,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 306,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 403,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 307,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 404,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 308,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 404,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 309,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 405,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 310,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 405,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 311,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 406,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 312,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 406,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 313,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 407,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 314,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 407,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 315,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 408,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 316,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 408,
+		"mmlVideo": false,
+		"round": {
+			"title": "SECOND ROUND",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 401,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 501,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 402,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 501,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 403,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 502,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 404,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 502,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 405,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/24/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 503,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 406,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/24/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 503,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 407,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/24/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 504,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 408,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/24/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 504,
+		"mmlVideo": false,
+		"round": {
+			"title": "SWEET 16&#174;",
+			"subtitle": "3/23-3/24",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 501,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/25/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 601,
+		"mmlVideo": false,
+		"round": {
+			"title": "ELITE EIGHT&#174;",
+			"subtitle": "3/25-26",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 502,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/25/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 601,
+		"mmlVideo": false,
+		"round": {
+			"title": "ELITE EIGHT&#174;",
+			"subtitle": "3/25-26",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 503,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/26/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 602,
+		"mmlVideo": false,
+		"round": {
+			"title": "ELITE EIGHT&#174;",
+			"subtitle": "3/25-26",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "Midwest",
+			"abbreviation": "MW",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 504,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/26/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 602,
+		"mmlVideo": false,
+		"round": {
+			"title": "ELITE EIGHT&#174;",
+			"subtitle": "3/25-26",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "West",
+			"abbreviation": "W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 601,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "04/01/2023",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 701,
+		"mmlVideo": false,
+		"round": {
+			"title": "FINAL FOUR&#174;",
+			"subtitle": "4/1",
+			"roundNumber": 6,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 6,
+			"position": "CC",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 602,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "04/03/2023",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 701,
+		"mmlVideo": false,
+		"round": {
+			"title": "FINAL FOUR&#174;",
+			"subtitle": "4/1",
+			"roundNumber": 6,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 6,
+			"position": "CC",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 701,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "04/03/2023",
+		"victorGamePosition": null,
+		"victorBracketPositionId": null,
+		"mmlVideo": false,
+		"round": {
+			"title": "CHAMPIONSHIP",
+			"subtitle": "4/3",
+			"roundNumber": 7,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 6,
+			"position": "CC",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	}
+]

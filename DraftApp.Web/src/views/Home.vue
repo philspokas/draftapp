@@ -1,10 +1,13 @@
 <template>
+    <v-container fluid max-width="1900px">
+
   <div class="home">
     <v-card>
       <v-card-title>{{ pageTitle }}</v-card-title>
     </v-card>
     <v-btn @click=startDraft()>Start</v-btn>
     <v-text-field>"{{ 'tracker: '+trackerVM.playerIndex+','+trackerVM.direction }}"</v-text-field>
+    <v-btn @click=nextPlayer()>Next</v-btn>
     <v-card 
       class="mx-auto" 
       max-width="300"
@@ -33,6 +36,7 @@
     </v-list>
 
   </div>
+    </v-container>
 </template>
 
 <script setup lang="ts">
@@ -43,7 +47,7 @@ import {
   PlayerListViewModel,
   TourneyTeamViewModel,
   TourneyTeamListViewModel,
-  PickTrackerViewModel
+  PickTrackerViewModel,
 } from "@/viewmodels.g";
 import { ref, watch } from "vue";
 
@@ -64,6 +68,8 @@ const pageTitle = ref("Picking Teams");
 function startDraft() {
   trackerVM.startDraft();
   trackerVM.$load(1);
+  trackerVM.$loadCleanData;
+  console.log('player index: ' + trackerVM.playerIndex + ' direction ' + trackerVM.direction)
   setTitle();
 }
 
@@ -95,9 +101,9 @@ function currentPlayer(): PlayerViewModel {
 
 function nextPlayer() {
   trackerVM.nextPlayer();
-  console.log('nextPlayer player index: ' + trackerVM.playerIndex);
   trackerVM.$load(1);
-  console.log('load player index: ' + trackerVM.playerIndex);
+  trackerVM.$loadCleanData;
+  console.log('player index: ' + trackerVM.playerIndex + ' direction ' + trackerVM.direction)
 }
 
 function setTitle() {

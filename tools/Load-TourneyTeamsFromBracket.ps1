@@ -1,6 +1,6 @@
 # Load up Tourney Teams in the Draft App fro the this year's bracket
-
-$DataDir = "C:\wrk\pcsdev\DraftPool\data\"
+$TourneyYear = "2025"
+$DataDir = "..\files\"
 $DraftAppPrefix = "https://localhost:45379"
 $AddTourneyTeamFlag = $true
 
@@ -39,7 +39,7 @@ function Get-Teams() {
 }
 
 function Get-Bracket() {
-    return Get-Content "$DataDir\official_bracket_web-2024.json" | ConvertFrom-Json
+    return Get-Content "$DataDir\official_bracket_web-$TourneyYear.json" | ConvertFrom-Json
 }
 
 $bracket = Get-Bracket
@@ -50,7 +50,8 @@ $teams = Get-Teams
 foreach ($b in $bracket) {
     if ($b.bracketId -lt 300 ) {
         foreach ($t in $b.teams) {
-            Write-Host "$teamCount,$($b.bracketId),$($t.nameShort),$($t.seed),$($b.region.title),$($b.region.position)" 
+            Write-Host "$teamCount,$($b.bracketId),$($t.nameShort),$($t.seoname),$($t.seed),$($b.region.title),$($b.region.position)" 
+            $teamCount++
 
             $bracketName = $t.nameShort -replace "\.", ""
 
@@ -79,7 +80,7 @@ foreach ($b in $bracket) {
                 victorBracketId = $b.victorBracketPositionId
             }
             AddTourneyTeam $newTeam
-            $teamCount++
+
         }
     }
 }

@@ -1,0 +1,2877 @@
+[
+	{
+		"bracketId": 101,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 201,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Four",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 7,
+				"seed": 16,
+				"seoname": "alabama-st",
+				"nickname": "Hornets",
+				"nameShort": "Alabama St.",
+				"name6Char": "ALA ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#AF272F",
+				"ncaaOrgId": 600,
+				"seed": 16,
+				"seoname": "st-francis-pa",
+				"nickname": "Red Flash",
+				"nameShort": "Saint Francis U",
+				"name6Char": "SFU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 102,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 229,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Four",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#CB6015",
+				"ncaaOrgId": 703,
+				"seed": 11,
+				"seoname": "texas",
+				"nickname": "Longhorns",
+				"nameShort": "Texas",
+				"name6Char": "TEXAS",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#0C2340",
+				"ncaaOrgId": 812,
+				"seed": 11,
+				"seoname": "xavier",
+				"nickname": "Musketeers",
+				"nameShort": "Xavier",
+				"name6Char": "XAVIER",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 103,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/19/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 217,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Four",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#A6192E",
+				"ncaaOrgId": 23,
+				"seed": 16,
+				"seoname": "american",
+				"nickname": "Eagles",
+				"nameShort": "American",
+				"name6Char": "AU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#002F6C",
+				"ncaaOrgId": 450,
+				"seed": 16,
+				"seoname": "mt-st-marys",
+				"nickname": "Mountaineers",
+				"nameShort": "Mount St. Mary's",
+				"name6Char": "MOUNT",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 104,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/18/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 205,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Four",
+			"subtitle": "3/18-3/19",
+			"roundNumber": 1,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 1,
+			"position": "TT",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": false,
+				"score": null,
+				"color": "#A6192E",
+				"ncaaOrgId": 626,
+				"seed": 11,
+				"seoname": "san-diego-st",
+				"nickname": "Aztecs",
+				"nameShort": "San Diego St.",
+				"name6Char": "SDSU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": true,
+				"score": null,
+				"color": "#7BAFD4",
+				"ncaaOrgId": 457,
+				"seed": 11,
+				"seoname": "north-carolina",
+				"nickname": "Tar Heels",
+				"nameShort": "North Carolina",
+				"name6Char": "UNC",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 201,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 301,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#FA4616",
+				"ncaaOrgId": 37,
+				"seed": 1,
+				"seoname": "auburn",
+				"nickname": "Tigers",
+				"nameShort": "Auburn",
+				"name6Char": "AUB",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 202,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 301,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#EE2722",
+				"ncaaOrgId": 367,
+				"seed": 8,
+				"seoname": "louisville",
+				"nickname": "Cardinals",
+				"nameShort": "Louisville",
+				"name6Char": "LOUIS",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#0032A0",
+				"ncaaOrgId": 169,
+				"seed": 9,
+				"seoname": "creighton",
+				"nickname": "Bluejays",
+				"nameShort": "Creighton",
+				"name6Char": "CREIGH",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 203,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 302,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#041E42",
+				"ncaaOrgId": 418,
+				"seed": 5,
+				"seoname": "michigan",
+				"nickname": "Wolverines",
+				"nameShort": "Michigan",
+				"name6Char": "MICH",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#192847",
+				"ncaaOrgId": 112,
+				"seed": 12,
+				"seoname": "uc-san-diego",
+				"nickname": "Tritons",
+				"nameShort": "UC San Diego",
+				"name6Char": "UCSD",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 204,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 302,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#5D0025",
+				"ncaaOrgId": 697,
+				"seed": 4,
+				"seoname": "texas-am",
+				"nickname": "Aggies",
+				"nameShort": "Texas A&M",
+				"name6Char": "TX A&M",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#111C2C",
+				"ncaaOrgId": 813,
+				"seed": 13,
+				"seoname": "yale",
+				"nickname": "Bulldogs",
+				"nameShort": "Yale",
+				"name6Char": "YALE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 205,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 303,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#C8102E",
+				"ncaaOrgId": 433,
+				"seed": 6,
+				"seoname": "ole-miss",
+				"nickname": "Rebels",
+				"nameShort": "Ole Miss",
+				"name6Char": "MISS",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 206,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 303,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#A6192E",
+				"ncaaOrgId": 311,
+				"seed": 3,
+				"seoname": "iowa-st",
+				"nickname": "Cyclones",
+				"nameShort": "Iowa St.",
+				"name6Char": "IA ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#2E1A47",
+				"ncaaOrgId": 28600,
+				"seed": 14,
+				"seoname": "lipscomb",
+				"nickname": "Bisons",
+				"nameShort": "Lipscomb",
+				"name6Char": "LIP",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 207,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 304,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#1D2953",
+				"ncaaOrgId": 387,
+				"seed": 7,
+				"seoname": "marquette",
+				"nickname": "Golden Eagles",
+				"nameShort": "Marquette",
+				"name6Char": "MARQ",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#BA0C2F",
+				"ncaaOrgId": 473,
+				"seed": 10,
+				"seoname": "new-mexico",
+				"nickname": "Lobos",
+				"nameShort": "New Mexico",
+				"name6Char": "UNM",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 208,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 304,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#173F35",
+				"ncaaOrgId": 416,
+				"seed": 2,
+				"seoname": "michigan-st",
+				"nickname": "Spartans",
+				"nameShort": "Michigan St.",
+				"name6Char": "MSU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#89734C",
+				"ncaaOrgId": 81,
+				"seed": 15,
+				"seoname": "bryant",
+				"nickname": "Bulldogs",
+				"nameShort": "Bryant",
+				"name6Char": "BRYANT",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 209,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 305,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#003087",
+				"ncaaOrgId": 235,
+				"seed": 1,
+				"seoname": "florida",
+				"nickname": "Gators",
+				"nameShort": "Florida",
+				"name6Char": "FLA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#007A53",
+				"ncaaOrgId": 485,
+				"seed": 16,
+				"seoname": "norfolk-st",
+				"nickname": "Spartans",
+				"nameShort": "Norfolk St.",
+				"name6Char": "NORFLK",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 210,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 305,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#0C2340",
+				"ncaaOrgId": 164,
+				"seed": 8,
+				"seoname": "uconn",
+				"nickname": "Huskies",
+				"nameShort": "UConn",
+				"name6Char": "UCONN",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#9D2235",
+				"ncaaOrgId": 522,
+				"seed": 9,
+				"seoname": "oklahoma",
+				"nickname": "Sooners",
+				"nameShort": "Oklahoma",
+				"name6Char": "OKLA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 211,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 306,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#173B70",
+				"ncaaOrgId": 404,
+				"seed": 5,
+				"seoname": "memphis",
+				"nickname": "Tigers",
+				"nameShort": "Memphis",
+				"name6Char": "MEM",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#2C5234",
+				"ncaaOrgId": 156,
+				"seed": 12,
+				"seoname": "colorado-st",
+				"nickname": "Rams",
+				"nameShort": "Colorado St.",
+				"name6Char": "CSU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 212,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 306,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#C8102E",
+				"ncaaOrgId": 392,
+				"seed": 4,
+				"seoname": "maryland",
+				"nickname": "Terrapins",
+				"nameShort": "Maryland",
+				"name6Char": "MD",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#623493",
+				"ncaaOrgId": 1104,
+				"seed": 13,
+				"seoname": "grand-canyon",
+				"nickname": "Lopes",
+				"nameShort": "Grand Canyon",
+				"name6Char": "GCU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 213,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 307,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 434,
+				"seed": 6,
+				"seoname": "missouri",
+				"nickname": "Tigers",
+				"nameShort": "Missouri",
+				"name6Char": "MIZZOU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#002F6C",
+				"ncaaOrgId": 189,
+				"seed": 11,
+				"seoname": "drake",
+				"nickname": "Bulldogs",
+				"nameShort": "Drake",
+				"name6Char": "DRAKE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 214,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 307,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#ED1F2A",
+				"ncaaOrgId": 700,
+				"seed": 3,
+				"seoname": "texas-tech",
+				"nickname": "Red Raiders",
+				"nameShort": "Texas Tech",
+				"name6Char": "TTU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#00685E",
+				"ncaaOrgId": 460,
+				"seed": 14,
+				"seoname": "unc-wilmington",
+				"nickname": "Seahawks",
+				"nameShort": "UNC Wilmington",
+				"name6Char": "UNCW",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 215,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 308,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#1967B8",
+				"ncaaOrgId": 328,
+				"seed": 7,
+				"seoname": "kansas",
+				"nickname": "Jayhawks",
+				"nameShort": "Kansas",
+				"name6Char": "KANSAS",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#9D2235",
+				"ncaaOrgId": 31,
+				"seed": 10,
+				"seoname": "arkansas",
+				"nickname": "Razorbacks",
+				"nameShort": "Arkansas",
+				"name6Char": "ARK",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 216,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 308,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#BA0C2F",
+				"ncaaOrgId": 603,
+				"seed": 2,
+				"seoname": "st-johns-ny",
+				"nickname": "Red Storm",
+				"nameShort": "St. John's",
+				"name6Char": "STJOHN",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 464,
+				"seed": 15,
+				"seoname": "neb-omaha",
+				"nickname": "Mavericks",
+				"nameShort": "Omaha",
+				"name6Char": "OMAHA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 217,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 309,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#002D72",
+				"ncaaOrgId": 193,
+				"seed": 1,
+				"seoname": "duke",
+				"nickname": "Blue Devils",
+				"nameShort": "Duke",
+				"name6Char": "DUKE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 218,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 309,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#5D1725",
+				"ncaaOrgId": 430,
+				"seed": 8,
+				"seoname": "mississippi-st",
+				"nickname": "Bulldogs",
+				"nameShort": "Mississippi St.",
+				"name6Char": "MS ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#1B3E30",
+				"ncaaOrgId": 51,
+				"seed": 9,
+				"seoname": "baylor",
+				"nickname": "Bears",
+				"nameShort": "Baylor",
+				"name6Char": "BAY",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 219,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 310,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#173F35",
+				"ncaaOrgId": 529,
+				"seed": 5,
+				"seoname": "oregon",
+				"nickname": "Ducks",
+				"nameShort": "Oregon",
+				"name6Char": "ORE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#971A1F",
+				"ncaaOrgId": 355,
+				"seed": 12,
+				"seoname": "liberty",
+				"nickname": "Flames",
+				"nameShort": "Liberty",
+				"name6Char": "LIB",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 220,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 310,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#C21B32",
+				"ncaaOrgId": 29,
+				"seed": 4,
+				"seoname": "arizona",
+				"nickname": "Wildcats",
+				"nameShort": "Arizona",
+				"name6Char": "ZONA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#0F192B",
+				"ncaaOrgId": 5,
+				"seed": 13,
+				"seoname": "akron",
+				"nickname": "Zips",
+				"nameShort": "Akron",
+				"name6Char": "AKRON",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 221,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 311,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#213C84",
+				"ncaaOrgId": 77,
+				"seed": 6,
+				"seoname": "byu",
+				"nickname": "Cougars",
+				"nameShort": "BYU",
+				"name6Char": "BYU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 740,
+				"seed": 11,
+				"seoname": "vcu",
+				"nickname": "Rams",
+				"nameShort": "VCU",
+				"name6Char": "VCU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 222,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 311,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#BA0C2F",
+				"ncaaOrgId": 796,
+				"seed": 3,
+				"seoname": "wisconsin",
+				"nickname": "Badgers",
+				"nameShort": "Wisconsin",
+				"name6Char": "WIS",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#6F2C3F",
+				"ncaaOrgId": 441,
+				"seed": 14,
+				"seoname": "montana",
+				"nickname": "Grizzlies",
+				"nameShort": "Montana",
+				"name6Char": "MONT",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 223,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 312,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#E51B24",
+				"ncaaOrgId": 610,
+				"seed": 7,
+				"seoname": "st-marys-ca",
+				"nickname": "Gaels",
+				"nameShort": "Saint Mary's",
+				"name6Char": "STMARY",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 736,
+				"seed": 10,
+				"seoname": "vanderbilt",
+				"nickname": "Commodores",
+				"nameShort": "Vanderbilt",
+				"name6Char": "VANDY",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 224,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 312,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#9D2235",
+				"ncaaOrgId": 8,
+				"seed": 2,
+				"seoname": "alabama",
+				"nickname": "Crimson Tide",
+				"nameShort": "Alabama",
+				"name6Char": "BAMA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#E31937",
+				"ncaaOrgId": 579,
+				"seed": 15,
+				"seoname": "robert-morris",
+				"nickname": "Colonials",
+				"nameShort": "Robert Morris",
+				"name6Char": "RMU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 225,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 313,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#E51636",
+				"ncaaOrgId": 288,
+				"seed": 1,
+				"seoname": "houston",
+				"nickname": "Cougars",
+				"nameShort": "Houston",
+				"name6Char": "HOU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#CE202F",
+				"ncaaOrgId": 660,
+				"seed": 16,
+				"seoname": "siu-edwardsville",
+				"nickname": "Cougars",
+				"nameShort": "SIU Edwardsville",
+				"name6Char": "SIUE",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 226,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 313,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40738",
+			"name": "TBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#D21F36",
+				"ncaaOrgId": 260,
+				"seed": 8,
+				"seoname": "gonzaga",
+				"nickname": "Bulldogs",
+				"nameShort": "Gonzaga",
+				"name6Char": "GONZ",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#DA291C",
+				"ncaaOrgId": 257,
+				"seed": 9,
+				"seoname": "georgia",
+				"nickname": "Bulldogs",
+				"nameShort": "Georgia",
+				"name6Char": "UGA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 227,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 314,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#FF6720",
+				"ncaaOrgId": 147,
+				"seed": 5,
+				"seoname": "clemson",
+				"nickname": "Tigers",
+				"nameShort": "Clemson",
+				"name6Char": "CLEM",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#003087",
+				"ncaaOrgId": 402,
+				"seed": 12,
+				"seoname": "mcneese",
+				"nickname": "Cowboys",
+				"nameShort": "McNeese",
+				"name6Char": "MCNEES",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 228,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 314,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40715",
+			"name": "truTV",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#010101",
+				"ncaaOrgId": 559,
+				"seed": 4,
+				"seoname": "purdue",
+				"nickname": "Boilermakers",
+				"nameShort": "Purdue",
+				"name6Char": "PUR",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#330072",
+				"ncaaOrgId": 19651,
+				"seed": 13,
+				"seoname": "high-point",
+				"nickname": "Panthers",
+				"nameShort": "High Point",
+				"name6Char": "HPU",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 229,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 315,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#F15A22",
+				"ncaaOrgId": 301,
+				"seed": 6,
+				"seoname": "illinois",
+				"nickname": "Fighting Illini",
+				"nameShort": "Illinois",
+				"name6Char": "ILL",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 230,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/21/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 315,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40723",
+			"name": "CBS",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#3258AF",
+				"ncaaOrgId": 334,
+				"seed": 3,
+				"seoname": "kentucky",
+				"nickname": "Wildcats",
+				"nameShort": "Kentucky",
+				"name6Char": "UK",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#9D2235",
+				"ncaaOrgId": 716,
+				"seed": 14,
+				"seoname": "troy",
+				"nickname": "Trojans",
+				"nameShort": "Troy",
+				"name6Char": "TROY",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 231,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 316,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#0072CE",
+				"ncaaOrgId": 110,
+				"seed": 7,
+				"seoname": "ucla",
+				"nickname": "Bruins",
+				"nameShort": "UCLA",
+				"name6Char": "UCLA",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#00263A",
+				"ncaaOrgId": 731,
+				"seed": 10,
+				"seoname": "utah-st",
+				"nickname": "Aggies",
+				"nameShort": "Utah St.",
+				"name6Char": "UT ST",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 232,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/20/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 316,
+		"mmlVideo": false,
+		"round": {
+			"title": "First Round",
+			"subtitle": "3/20-3/21",
+			"roundNumber": 2,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": {
+			"id": "40720",
+			"name": "TNT",
+			"__typename": "Broadcaster"
+		},
+		"teams": [
+			{
+				"isTop": true,
+				"isHome": true,
+				"score": null,
+				"color": "#FF8200",
+				"ncaaOrgId": 694,
+				"seed": 2,
+				"seoname": "tennessee",
+				"nickname": "Volunteers",
+				"nameShort": "Tennessee",
+				"name6Char": "TENN",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			},
+			{
+				"isTop": false,
+				"isHome": false,
+				"score": null,
+				"color": "#8A6E4B",
+				"ncaaOrgId": 2915,
+				"seed": 15,
+				"seoname": "wofford",
+				"nickname": "Terriers",
+				"nameShort": "Wofford",
+				"name6Char": "WOFF",
+				"isWinner": false,
+				"textOverride": null,
+				"__typename": "ChampionshipTeam"
+			}
+		],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 301,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 401,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 302,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 401,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 303,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 402,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 304,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 402,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 305,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 403,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 306,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 403,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 307,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 404,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 308,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 404,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 309,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 405,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 310,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 405,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 311,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 406,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 312,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 406,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 313,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 407,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 314,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 407,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 315,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/23/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 408,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 316,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/22/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 408,
+		"mmlVideo": false,
+		"round": {
+			"title": "Second Round",
+			"subtitle": "3/22-3/23",
+			"roundNumber": 3,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 401,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/28/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 501,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 402,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/28/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 501,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 403,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/27/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 502,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 404,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/27/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 502,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 405,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/27/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 503,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 406,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/27/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 503,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 407,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/28/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 504,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 408,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/28/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 504,
+		"mmlVideo": false,
+		"round": {
+			"title": "Sweet 16",
+			"subtitle": "3/27-3/28",
+			"roundNumber": 4,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 501,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/30/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 601,
+		"mmlVideo": false,
+		"round": {
+			"title": "Elite Eight",
+			"subtitle": "3/29-3/30",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 2,
+			"position": "TL",
+			"title": "South",
+			"abbreviation": "S",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 502,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/29/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 601,
+		"mmlVideo": false,
+		"round": {
+			"title": "Elite Eight",
+			"subtitle": "3/29-3/30",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 4,
+			"position": "BL",
+			"title": "West",
+			"abbreviation": " W",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 503,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/29/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 602,
+		"mmlVideo": false,
+		"round": {
+			"title": "Elite Eight",
+			"subtitle": "3/29-3/30",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 3,
+			"position": "TR",
+			"title": "East",
+			"abbreviation": "E",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 504,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "03/30/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 602,
+		"mmlVideo": false,
+		"round": {
+			"title": "Elite Eight",
+			"subtitle": "3/29-3/30",
+			"roundNumber": 5,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 5,
+			"position": "BR",
+			"title": "Midwest",
+			"abbreviation": "MW ",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 601,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "04/05/2025",
+		"victorGamePosition": "Top",
+		"victorBracketPositionId": 701,
+		"mmlVideo": false,
+		"round": {
+			"title": "FINAL FOUR",
+			"subtitle": "4/5",
+			"roundNumber": 6,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 6,
+			"position": "CC",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 602,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "04/05/2025",
+		"victorGamePosition": "Bottom",
+		"victorBracketPositionId": 701,
+		"mmlVideo": false,
+		"round": {
+			"title": "FINAL FOUR",
+			"subtitle": "4/5",
+			"roundNumber": 6,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 6,
+			"position": "CC",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	},
+	{
+		"bracketId": 701,
+		"gameStateCode": 1,
+		"gamestateDisplay": "",
+		"startDate": "04/07/2025",
+		"victorGamePosition": null,
+		"victorBracketPositionId": null,
+		"mmlVideo": false,
+		"round": {
+			"title": "Championship",
+			"subtitle": "4/7",
+			"roundNumber": 7,
+			"__typename": "Round"
+		},
+		"region": {
+			"sectionId": 6,
+			"position": "CC",
+			"title": "",
+			"abbreviation": "",
+			"__typename": "RegionSection"
+		},
+		"broadcaster": null,
+		"teams": [],
+		"__typename": "ChampionshipGame"
+	}
+]
